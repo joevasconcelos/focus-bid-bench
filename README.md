@@ -1,6 +1,6 @@
-# bid-bench
-This repository contains the latest version of the bid-o-matic app
-**Bid Bench** — a reusable RFP builder for focus group bids, with a form on the left and a live proposal document on the right.
+# focus-bid-bench
+This repository contains the latest version of my previous Bid-O-Matic app.
+**Focus Bid Bench** — a reusable RFP builder for market research focus group bids, with a form on the left and a live proposal document on the right.
 
 How it's organized:
 
@@ -19,4 +19,4 @@ The right-hand preview updates live as you type, formatted like an actual client
 
 It's reusable — hit "New bid" to reset for the next RFP while keeping your company info pattern intact (you'll just re-enter it, or you could hardcode your letterhead as the default if you want it to persist automatically every time you open it).
 
-A couple of things worth deciding since I made assumptions: I defaulted the placeholder company to a fictional "Meridian Field Research" — swap that for your actual company details, and let me know if you'd rather it start blank instead of pre-filled with sample copy.
+I defaulted the placeholder company to a fictional "Meridian Field Research" — swap that for your actual company details. I may do a future update to have it start blank instead of pre-filled with sample copy, if feedback warrants the change.
